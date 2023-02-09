@@ -1,0 +1,224 @@
+* {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Header-Banner section */
+.banner-text {
+    text-align: right;
+    padding: 150px 200px;
+
+}
+
+.banner-h3 {
+    font-size: 80px;
+    color: aliceblue;
+    margin: 0;
+}
+
+.banner-paragraph {
+    font-size: 20px;
+    padding-left: 700px;
+    color: aliceblue;
+    margin: 20px 2px;
+}
+
+.banner-image {
+    background-image: url('images/banner/banner3.png');
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+}
+
+.Button {
+    color: rgb(26, 49, 96);
+    background-color: aliceblue;
+    padding: 20px 30px;
+    border-color: aliceblue;
+    border-radius: 5px;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+/* Main 1st section */
+.first-section {
+    display: flex;
+    margin-top: 150px;
+}
+
+.first-section-image {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.first-section-text {
+    padding-right: 200px;
+    padding-top: 150px;
+}
+
+.first-section-h3 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.simble {
+    color: rgb(4, 0, 255);
+    padding-right: 5px;
+}
+
+/* Main second section */
+
+.second-section-title {
+    margin-top: 150px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.Second-section {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 100px;
+    text-align: center;
+}
+
+.second-section-text {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.second-section-paragraph {
+    font-size: 25px;
+}
+
+/* main third section */
+.third-section {
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.BG-image {
+    background-image: url('images/gradient1.png'), url('images/watch.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 80px 200px;
+}
+
+.trird-section-text {
+    font-size: 40px;
+    color: aliceblue;
+    margin: 10px;
+}
+
+/* extra section */
+.third-section-title {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.extra-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.extra-Mongo {
+    padding: 30px;
+    border-radius: 10px;
+    background-color: chocolate;
+    margin: 30px;
+}
+
+.line {
+    border-left: 6px solid green;
+    height: 300px;
+}
+
+.extra-Nodejs {
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgb(175, 121, 101);
+    margin: 30px;
+
+}
+
+.extra-React {
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgb(28, 57, 81);
+    margin: 30px;
+
+}
+
+/* footer */
+.footer-section {
+    background-color: rgba(0, 0, 0, 0.815);
+    color: aliceblue;
+    display: flex;
+    padding: 30px 60px;
+    margin-top: 100px;
+}
+
+.contact {
+    padding: 50px 100px;
+}
+
+.contact-text {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.contact-paragraph {
+    font-size: 20px;
+}
+
+.social-link1 {
+    padding-right: 15px;
+    padding-top: 30px;
+}
+
+.social-link2 {
+    padding-right: 15px;
+    padding-top: 30px;
+}
+
+.social-link3 {
+    padding-top: 30px;
+}
+
+.Subscribe {
+    padding: 50px 100px;
+}
+
+.subscribe-text {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.email {
+    background-color: rgba(0, 0, 0, 0.131);
+    padding: 20px 40px;
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: aliceblue;
+    margin-top: 30px;
+    font-weight: 500;
+}
+
+.Subscribe-button {
+    padding: 15px 35px;
+    background-color: rgb(12, 133, 198);
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 10px;
+}
